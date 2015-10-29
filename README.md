@@ -1,4 +1,4 @@
-# service-monitor-script
+# service-monitor-script work well for hadong
 This script monitors the service running on your linux based servers  and notify you by mail
 
 
